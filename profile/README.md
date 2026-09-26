@@ -1,0 +1,14 @@
+# QE Robotics
+> This is the unofficial GitHub page of the volunteers & students helping to run VEX Robotics Competitions at Queen Elizabeth's School
+
+## Repositories
+
+| Repo | What it is |
+|---|---|
+| [`vex-tm-tools`](https://github.com/qerobotics/vex-tm-tools) | Competition-control system for running VEX TM events. Connects to a VEX TM field-set's WebSocket/REST API and drives Spotify playback, an ATEM switcher, a ZerOS lighting board, and OBS scenes off live match events, via a YAML/Jinja2 automation engine. FastAPI + Postgres + Redis backend with a React admin SPA. |
+| [`qerobotics-stats`](https://github.com/qerobotics/qerobotics-stats) | A live stats site for VEX IQ and V5RC teams — season filtering, awards, skills, and more. React/Vite frontend on Cloudflare Pages, backed by a Cloudflare Worker that proxies and caches the VEX Robotics Events API. |
+| [`qerobotics-home`](https://github.com/qerobotics/qerobotics-home) | The QE Robotics landing page — a customisable React, Vite, and Tailwind CSS site. |
+
+## About
+
+Queen Elizabeth's School fields teams in VEX IQ and VEX V5RC, and runs its own VEX Robotics Competitions. This org holds the tooling built by student and volunteer contributors to run those events and support the teams — from tournament-day automation to public-facing stats and web pages.
