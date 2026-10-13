@@ -1,4 +1,4 @@
-# QE Robotics
+# A Robotics Team
 > This is the unofficial GitHub page of the volunteers & students helping to run VEX Robotics Competitions at certain schools in the UK
 
 ## Repositories
